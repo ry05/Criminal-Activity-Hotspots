@@ -28,7 +28,7 @@ The repository has been structured to help in easy comprehension of our work as 
 
 **data :** Contains all the necessary data files used  
 **notebooks :** Jupyter notebooks used  
-**results :** Includes only the .png plots generated as of now (will be update later)  
+**results :** Includes only the .png plots generated as of now (will be updated later)  
 **utils :** Utiliy Script folder written for simplifying routine tasks  
 
 ##### Directories to be added
