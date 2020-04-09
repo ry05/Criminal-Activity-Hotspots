@@ -11,7 +11,8 @@ Source Code Repository of ***Identification of Criminal Activity Hotspots using 
 ### Status of the Paper
 - Accepted at [CSITSS 2019](http://csitss.rvce.edu.in/csitss2019/)
 - Won "Best Paper Award" at CSITSS 2019
-- Will be indexed in IEEE Explore soon. The DOI to the paper will be shared here after it is published online.
+- Publisher : IEEE
+- DOI : [10.1109/CSITSS47250.2019.9031057](10.1109/CSITSS47250.2019.9031057)
 
 ### Repository Structure
 The repository has been structured to help in easy comprehension of our work as it will help anybody who wishes to reproduce our work do so with relative ease.  
